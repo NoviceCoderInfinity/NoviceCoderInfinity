@@ -5,12 +5,12 @@
 - 🎓 **Major**: Pre-final year UG - Electrical Engineering @ IIT Bombay  
 - 🤖 **Domain of Work**: Machine Learning, Artificial Intelligence  
 - 💻 **Languages:** Python, C++
-- 🧠 **Areas:** NLP, LLMs, Vision-Language Models, Model Evaluation, Explainability
+- 🧠 **Areas:** Computer Vision, NLP, LLMs, Vision-Language Models, Model Evaluation, Explainability
 - ⚡ **Fun Fact**: I automate boring stuff and simulate fun ones 🤖🎮
 
 <p align="center">
   <a href="https://novicecoderinfinity.github.io/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/anupamrawat001/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -26,6 +26,13 @@
 ## ⌨️🖥️🖱️ Key Projects:
 1. [**AI Home**](https://github.com/NoviceCoderInfinity/ai_home): A centralised AI system that monitors and guards your door, allowing entry to only allowed people, with conversational properties.
 2. [**Medusa Multi Head Decoding**](https://github.com/satushparikh/CS726-assignments/tree/Medusa): Multi Head LLM inference implementation for better accuracy for longer responses.
+
+## 🛠️🚧 Work-in-Progress:
+1. [**Enerdy**]([https://github.com/NoviceCoderInfinity/ai_home](https://github.com/NoviceCoderInfinity/enerdy)): AI-powered Linux power management system to optimize CPU, GPU, and system workloads to maximize battery life and energy efficiency.
+
+## Problem Solving:
+1. My solutions to leetcode problems (updated daily with problem of the day) [**leetcode**](https://github.com/NoviceCoderInfinity/DSA_CP)
+2. [**CSES**](https://github.com/NoviceCoderInfinity/cses) problem solutions
 
 ---
 
