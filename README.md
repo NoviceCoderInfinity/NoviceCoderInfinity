@@ -24,7 +24,7 @@
 ---
 
 ## ⌨️🖥️🖱️ Key Projects:
-1. [**AI Home**](https://github.com/NoviceCoderInfinity/ai_home): A centralised AI system that monitors and guards your door, allowing entry to only allowed people, with conversational properties.
+1. [**ReVival**](https://github.com/NoviceCoderInfinity/ReVival): [Live Deployment](https://revival-rose.vercel.app/) An end-to-end system for routing returned products back into the market instead of landfill. When a seller returns or re-lists an item, an agent pipeline grades it, prices it, matches it to the buyer least likely to return it again, generates a verified condition report, and closes the listing prevention loop on the original product page.
 2. [**Medusa Multi Head Decoding**](https://github.com/satushparikh/CS726-assignments/tree/Medusa): Multi Head LLM inference implementation for better accuracy for longer responses.
 
 ## 🛠️🚧 Work-in-Progress:
